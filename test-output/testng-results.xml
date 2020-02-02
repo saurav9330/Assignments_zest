@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-02T20:55:33 IST" name="Default suite" finished-at="2020-02-02T20:56:07 IST" duration-ms="33965">
+    <groups>
+    </groups>
+    <test started-at="2020-02-02T20:55:33 IST" name="Default test" finished-at="2020-02-02T20:56:07 IST" duration-ms="33965">
+      <class name="Testcases.Assignment2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.Assignment2@70be0a2b]" started-at="2020-02-02T20:55:33 IST" name="setup" finished-at="2020-02-02T20:55:37 IST" duration-ms="4341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Tripadv()[pri:0, instance:Testcases.Assignment2@70be0a2b]" started-at="2020-02-02T20:55:37 IST" name="Tripadv" finished-at="2020-02-02T20:56:06 IST" duration-ms="28613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tripadv -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.Assignment2@70be0a2b]" started-at="2020-02-02T20:56:06 IST" name="teardown" finished-at="2020-02-02T20:56:07 IST" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.Assignment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
